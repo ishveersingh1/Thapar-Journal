@@ -101,6 +101,7 @@ Currently: Building core EE/CS fundamentals to break into automotive engineering
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&width=1000" width="100%"/>
 </p>
 
+<p align="center">
 *"Every great car started as a blueprint. Every great engineer starts as a student."* 🏁
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=120&section=footer" width="100%"/>
