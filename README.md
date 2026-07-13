@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Hi, I'm **Ishveer Singh** — a first-year Electrical and Computer Engineering student at **Thapar Institute of Engineering and Technology**. I'm car-obsessed in the most functional way possible: I want to build a career engineering in the automotive industry. My goal is to pursue an **MSc in Automotive Engineering in Germany**, specializing in areas like Powertrain & Electrification, Autonomous Driving (ADAS), Body & Chassis Electronics, Infotainment & Connectivity, and Testing & Validation. This profile tracks the skills, projects, and progress that are getting me there.
+Hi, I'm **Ishveer Singh** — a first-year Electrical and Computer Engineering student at **Thapar Institute of Engineering and Technology**. I'm car-obsessed in the most functional way possible: I want to build a career engineering in the automotive industry. My goal is to pursue an **MSc in Automotive Engineering in Germany**, specializing in areas like Powertrain & Electrification, Autonomous Driving (ADAS), Body & Chassis Electronics, Infotainment & Connectivity, and Testing & Validation. Currently I am specialised in German Language till B1.1 level. This profile tracks the skills, projects, and progress that are getting me there.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&width=1000" width="100%"/>
@@ -39,7 +39,7 @@ Currently: Building core EE/CS fundamentals to break into automotive engineering
 - 🐍 Learning **Python & C/C++** for embedded control and data analysis
 - 🧠 Exploring **MATLAB/Simulink** basics for control systems modeling
 - 🚗 Following automotive engineering trends — EVs, battery tech, and ADAS sensor suites
-- 🇩🇪 Researching **German MSc Automotive programs** (RWTH Aachen, TU Munich, University of Stuttgart) & German language basics (A1/A2)
+- 🇩🇪 Researching **German MSc Automotive programs** (RWTH Aachen, TU Munich, University of Stuttgart)
 - 📐 Building small personal projects (Arduino/Raspberry Pi based) to apply what I learn
 
 <p align="center">
