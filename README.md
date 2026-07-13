@@ -101,16 +101,6 @@ Currently: Building core EE/CS fundamentals to break into automotive engineering
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&width=1000" width="100%"/>
 </p>
 
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<div align="center">
-
 *"Every great car started as a blueprint. Every great engineer starts as a student."* 🏁
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=120&section=footer" width="100%"/>
