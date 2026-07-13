@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Hi, I'm **Ishveer Singh** — a first-year Electrical and Computer Engineering student at **Thapar Institute of Engineering and Technology**. I'm car-obsessed in the most functional way possible: I want to understand how vehicles actually work at the systems level and build a career engineering them. My goal is to pursue an **MSc in Automotive Engineering in Germany**, specializing in areas like Powertrain & Electrification, Autonomous Driving (ADAS), Body & Chassis Electronics, Infotainment & Connectivity, and Testing & Validation. This profile tracks the skills, projects, and progress that are getting me there.
+Hi, I'm **Ishveer Singh** — a first-year Electrical and Computer Engineering student at **Thapar Institute of Engineering and Technology**. I'm car-obsessed in the most functional way possible: I want to build a career engineering in the automotive industry. My goal is to pursue an **MSc in Automotive Engineering in Germany**, specializing in areas like Powertrain & Electrification, Autonomous Driving (ADAS), Body & Chassis Electronics, Infotainment & Connectivity, and Testing & Validation. This profile tracks the skills, projects, and progress that are getting me there.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&width=1000" width="100%"/>
@@ -15,19 +15,18 @@ Hi, I'm **Ishveer Singh** — a first-year Electrical and Computer Engineering s
 ## 🚘 About Me
 
 ```yaml
-name: Ishveer Singh
-role: First-Year Electrical & Computer Engineering Student
-university: Thapar Institute of Engineering and Technology
-passion: Cars, Powertrains & Next-Gen Mobility
-goal: MSc Automotive Engineering in Germany 🇩🇪
-focus_areas:
+Name: Ishveer Singh
+Role: First-Year Electrical & Computer Engineering Student
+University: Thapar Institute of Engineering and Technology
+Passion: Cars, Powertrains & Next-Gen Mobility
+Goal: MSc Automotive Engineering in Germany 🇩🇪
+Focus_areas:
   - Powertrain & Electrification
   - Autonomous Driving (ADAS)
   - Body & Chassis Electronics
   - Infotainment & Connectivity
   - Testing & Validation
-currently: Building core EE/CS fundamentals to break into automotive engineering
-fun_fact: "I can talk about torque curves longer than most people talk about the weather 🏎️"
+Currently: Building core EE/CS fundamentals to break into automotive engineering
 ```
 
 <p align="center">
