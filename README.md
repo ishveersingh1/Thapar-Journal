@@ -46,7 +46,7 @@ Currently: Building core EE/CS fundamentals to break into automotive engineering
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c9ff,100:0f2027&height=3&width=1000" width="100%"/>
 </p>
 
-## 🗺️ My Roadmap: BTech (ECE) → MSc Automotive Engineering (Germany)
+## 🗺️ My Roadmap: BTech (EEC) → MSc Automotive Engineering (Germany) → Build a Career and Startup in the Automotive Field
 
 > A self-designed skill roadmap targeting **Powertrain & Electrification, ADAS, Body & Chassis Electronics, Infotainment & Connectivity, and Testing & Validation.**
 
