@@ -88,7 +88,7 @@ Currently: Building core EE/CS fundamentals to break into automotive engineering
 </details>
 
 <details>
-<summary><b>🔴 MSc Automotive Engineering (Germany) — End Goal</b></summary>
+<summary><b>🔴 MSc Automotive Engineering (Germany)</b></summary>
 <br>
 
 - 🎯 Specialize via electives/thesis in one of: **Powertrain & Electrification | ADAS | Body & Chassis Electronics | Infotainment & Connectivity | Testing & Validation**
